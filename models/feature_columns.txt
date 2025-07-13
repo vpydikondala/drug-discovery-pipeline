@@ -1,0 +1,4 @@
+MolWt
+LogP
+HDonors
+HAcceptors
